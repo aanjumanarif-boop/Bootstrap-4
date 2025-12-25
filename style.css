@@ -1,0 +1,38 @@
+.bg-image{
+ background-image: url(https://placehold.co/1100x400);
+ height: 400px;
+ width: 1100;
+
+}
+ h1{
+    color: rgb(224, 83, 31);
+    margin-left: 60px;   
+ }
+ .para-11{
+    color:rgb(224, 83, 31);
+    margin-left: 60px;
+ }
+.form-main{
+ width: 300px;
+ border-radius: 5px;
+ margin-left: 300px;
+ background-color: grey;
+ margin-top: 10px;
+}
+ h2{
+ margin-left: 300px;
+ color: dodgerblue;
+ }  
+  
+.logo-div{
+margin-left: 450px;
+margin-bottom: 40px;
+}
+.para-1{
+ color: rgb(88, 90, 91);
+ font-size: small;
+ margin-left: 570px;
+ padding-bottom: 12px;
+}
+ 
+
