@@ -1,38 +1,119 @@
-.bg-image{
- background-image: url(https://placehold.co/1100x400);
- height: 400px;
- width: 1100;
+.header-section {
+  background-image: url(img-2/Banner-web.webp);
+  height: 1000px;
+  border: 1px solid;
+}
+
+h1 {
+  color: rgb(224, 83, 31);
+  margin-left: 60px;
+}
+
+.para-11 {
+  color: rgb(224, 83, 31);
+  margin-left: 60px;
+}
+
+.text-div {
+  text-align: center;
+  margin-top: 200px;
+}
+
+.form-main {
+  width: 300px;
+  border-radius: 5px;
+  margin-left: 300px;
+  background-color: grey;
+  margin-top: 10px;
+}
+
+h2 {
+  margin-left: 300px;
+  color: dodgerblue;
 
 }
- h1{
-    color: rgb(224, 83, 31);
-    margin-left: 60px;   
- }
- .para-11{
-    color:rgb(224, 83, 31);
-    margin-left: 60px;
- }
-.form-main{
- width: 300px;
- border-radius: 5px;
- margin-left: 300px;
- background-color: grey;
- margin-top: 10px;
-}
- h2{
- margin-left: 300px;
- color: dodgerblue;
- }  
-  
-.logo-div{
-margin-left: 450px;
-margin-bottom: 40px;
-}
-.para-1{
- color: rgb(88, 90, 91);
- font-size: small;
- margin-left: 570px;
- padding-bottom: 12px;
-}
- 
 
+.logo-div {
+  margin-left: 400px;
+  margin-bottom: 40px;
+}
+
+.para-1 {
+  color: rgb(88, 90, 91);
+  font-size: small;
+  margin-left: 580px;
+  padding-bottom: 25px;
+}
+
+.btn-section {
+  background-color: rgb(224, 83, 31);
+  padding: 12px;
+  margin-left: 120px;
+  text-decoration: none;
+  font-size: small;
+  border-radius: 15px;
+
+}
+
+.feature-section {
+  padding: 30px;
+  background-color: rgb(139, 122, 172);
+}
+
+.header-section img {
+
+  width: 800px;
+  height: 600px;
+}
+
+.card-div {
+  background-color: #cfc3c3;
+  border-radius: 8px;
+  box-shadow: -15px 11px 9px 3px rgba(122, 115, 115, 0.7);
+}
+
+.card-img {
+  width: 80px;
+  height: 80px;
+  margin: 8px 15px;
+
+
+}
+
+.card-div h5 {
+  margin-left: 15px;
+
+}
+
+.card-para {
+  color: rgb(215, 91, 91);
+  margin-left: 15px;
+  margin-top: 2px;
+  font-size: small;
+
+
+}
+
+.form-main {
+  box-shadow: -15px -12px 4px 4px rgba(160, 229, 118, 0.75);
+  margin-top: 30px;
+}
+
+.footer-man img {
+  width: 60px;
+  height: 60px;
+}
+
+ .footer{
+ padding: 60px 0px;
+ background-color: black;
+ color: white;
+ margin-top: 15px;
+ }
+ .footer-contain{
+ display: flex;
+ justify-content: space-between;
+ }
+ .logo-div a:hover{
+  color: crimson;
+ }
